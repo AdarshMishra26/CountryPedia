@@ -7,7 +7,6 @@ Welcome to the Country Dex web app project! This application allows you to explo
 ## Table of Contents
 
 - [Features](#features)
-- [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Theme Toggle](#theme-toggle)
