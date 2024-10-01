@@ -28,8 +28,7 @@ function Navbar() {
 
   return (
     <nav className="navbar-section" data-aos="fade-down">
-      <h1 className="navbar-title"><Link to="/" title="Country Dex">Countrypedia</Link></h1>
-     <p className="bg-color red">  Designed & Developed by Anant Vijay</p>
+      <h1 className="navbar-title"><Link to="/" title="Country Dex">Country Dex</Link></h1>
       <button className="navbar-btn" type="button" title="Toggle Theme" onClick={updateTheme}>
         {theme === "dark" ? <BsFillMoonFill /> : <BsMoon />} {theme === "dark" ? "Dark" : "Light"} Mode
       </button>
